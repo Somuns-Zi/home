@@ -1,0 +1,1 @@
+D:\减速器拆装与测量实验报告批改\home\venvn\Scripts\python.exe D:\减速器拆装与测量实验报告批改\home\main.py
